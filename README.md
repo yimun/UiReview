@@ -1,5 +1,7 @@
 # UiReview - 设计师Review工具
 
+[![Build Status](https://travis-ci.org/yimun/UiReview.png)](https://travis-ci.org/yimun/UiReview)
+
 豆瓣实习期间开发的Android视图信息可视化工具，专用于豆瓣设计师review应用界面
 
 
